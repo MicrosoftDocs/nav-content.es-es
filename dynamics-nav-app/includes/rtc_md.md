@@ -1,1 +1,1 @@
-Cliente adaptado a roles
+<span data-ttu-id="bfab4-101">Cliente adaptado a roles</span><span class="sxs-lookup"><span data-stu-id="bfab4-101">RoleTailored client</span></span>

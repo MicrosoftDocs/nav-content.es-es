@@ -1,1 +1,1 @@
-entorno de desarrollo
+<span data-ttu-id="abb0c-101">entorno de desarrollo</span><span class="sxs-lookup"><span data-stu-id="abb0c-101">development environment</span></span>

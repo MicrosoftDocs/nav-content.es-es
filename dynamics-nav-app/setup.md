@@ -16,24 +16,24 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="set-up-your-dynamics-nav"></a>Configurar Dynamics NAV
-Dynamics NAV incluye una configuración estándar de muchos procesos empresariales, pero puede cambiar la configuración para que se adapte a las necesidades de su empresa.
-Desde la página Inicio, puede acceder a guías de configuración asistidas que le ayuden a configurar varios escenarios. Para obtener más información, consulte [Este es Dynamics NAV](across-get-started.md).  
+# <a name="set-up-your-dynamics-nav"></a><span data-ttu-id="96cd5-102">Configurar Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="96cd5-102">Set Up Your Dynamics NAV</span></span>
+<span data-ttu-id="96cd5-103">Dynamics NAV incluye una configuración estándar de muchos procesos empresariales, pero puede cambiar la configuración para que se adapte a las necesidades de su empresa.</span><span class="sxs-lookup"><span data-stu-id="96cd5-103">Dynamics NAV includes a standard configuration of most business processes, but you can change the configuration to suit your business' needs.</span></span>
+<span data-ttu-id="96cd5-104">Desde la página Inicio, puede acceder a guías de configuración asistidas que le ayuden a configurar varios escenarios.</span><span class="sxs-lookup"><span data-stu-id="96cd5-104">From your Home page, you can access assisted setup guides that help you configure certain scenarios.</span></span> <span data-ttu-id="96cd5-105">Para obtener más información, consulte [Este es Dynamics NAV](across-get-started.md).</span><span class="sxs-lookup"><span data-stu-id="96cd5-105">For more information, see [Welcome to Dynamics NAV](across-get-started.md).</span></span>  
 
-En la tabla siguiente se indican una serie de tareas con vínculos a los temas que las describen.
+<span data-ttu-id="96cd5-106">En la tabla siguiente se indican una serie de tareas con vínculos a los temas que las describen.</span><span class="sxs-lookup"><span data-stu-id="96cd5-106">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span>
 
-| Para                                                                  | Vea                      |
+| <span data-ttu-id="96cd5-107">Para</span><span class="sxs-lookup"><span data-stu-id="96cd5-107">To</span></span>                                                                  | <span data-ttu-id="96cd5-108">Vea</span><span class="sxs-lookup"><span data-stu-id="96cd5-108">See</span></span>                      |
 |---------------------------------------------------------------------|--------------------------|
-|Configurar los procesos financieros más importantes|[Finanzas](finance-setup-setup-finance-setup.md)|
-|Configure la banca.|[Configurar la banca](bank-setup-banking.md)|
-|Configure los procesos de ventas.|[Configurar ventas](sales-setup-sales.md)|
-|Configure los procesos de compra.|[Configurar compra](purchasing-setup-purchasing.md)|
-|Instale extensiones|[Personalizar Dynamics NAV usando extensiones](ui-extensions.md)|
-|Obtener acceso a los servicios de Azure registrando Dynamics NAV|[Procedimiento: Registrar Dynamics NAV en el portal de administración de Azure](ui-how-register-dynamics-nav-azure.md)|
+|<span data-ttu-id="96cd5-109">Configurar los procesos financieros más importantes</span><span class="sxs-lookup"><span data-stu-id="96cd5-109">Set up core financial processes</span></span>|[<span data-ttu-id="96cd5-110">Finanzas</span><span class="sxs-lookup"><span data-stu-id="96cd5-110">Finance</span></span>](finance-setup-setup-finance-setup.md)|
+|<span data-ttu-id="96cd5-111">Configure la banca.</span><span class="sxs-lookup"><span data-stu-id="96cd5-111">Set up banking.</span></span>|[<span data-ttu-id="96cd5-112">Configurar la banca</span><span class="sxs-lookup"><span data-stu-id="96cd5-112">Set Up Banking</span></span>](bank-setup-banking.md)|
+|<span data-ttu-id="96cd5-113">Configure los procesos de ventas.</span><span class="sxs-lookup"><span data-stu-id="96cd5-113">Set up sales processes.</span></span>|[<span data-ttu-id="96cd5-114">Configurar ventas</span><span class="sxs-lookup"><span data-stu-id="96cd5-114">Set Up Sales</span></span>](sales-setup-sales.md)|
+|<span data-ttu-id="96cd5-115">Configure los procesos de compra.</span><span class="sxs-lookup"><span data-stu-id="96cd5-115">Set up purchase processes.</span></span>|[<span data-ttu-id="96cd5-116">Configurar compra</span><span class="sxs-lookup"><span data-stu-id="96cd5-116">Set Up Purchasing</span></span>](purchasing-setup-purchasing.md)|
+|<span data-ttu-id="96cd5-117">Instale extensiones</span><span class="sxs-lookup"><span data-stu-id="96cd5-117">Install extensions.</span></span>|[<span data-ttu-id="96cd5-118">Personalizar Dynamics NAV usando extensiones</span><span class="sxs-lookup"><span data-stu-id="96cd5-118">Customizing Dynamics NAV Using Extensions</span></span>](ui-extensions.md)|
+|<span data-ttu-id="96cd5-119">Obtener acceso a los servicios de Azure registrando Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="96cd5-119">Get access to Azure services by registering your Dynamics NAV</span></span>|[<span data-ttu-id="96cd5-120">Procedimiento: Registrar Dynamics NAV en el portal de administración de Azure</span><span class="sxs-lookup"><span data-stu-id="96cd5-120">How to: Register Dynamics NAV in the Azure Management Portal</span></span>](ui-how-register-dynamics-nav-azure.md)|
 
-##<a name="see-also"></a>Consulte también
-[Finanzas](finance-setup.md)  
-[Venta](sales-manage-sales.md)  
-[Compra](purchasing-manage-purchasing.md)  
-[Este es Dynamics NAV](across-get-started.md)  
+##<a name="see-also"></a><span data-ttu-id="96cd5-121">Consulte también</span><span class="sxs-lookup"><span data-stu-id="96cd5-121">See Also</span></span>
+[<span data-ttu-id="96cd5-122">Finanzas</span><span class="sxs-lookup"><span data-stu-id="96cd5-122">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="96cd5-123">Venta</span><span class="sxs-lookup"><span data-stu-id="96cd5-123">Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="96cd5-124">Compra</span><span class="sxs-lookup"><span data-stu-id="96cd5-124">Purchasing</span></span>](purchasing-manage-purchasing.md)  
+[<span data-ttu-id="96cd5-125">Este es Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="96cd5-125">Welcome to Dynamics NAV</span></span>](across-get-started.md)  
 
