@@ -1,1 +1,1 @@
-CRONUS España S.A. base de datos de demostración
+Base de datos de demostración de CRONUS International Ltd.

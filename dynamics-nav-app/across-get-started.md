@@ -1,5 +1,5 @@
 ---
-title: Este es Dynamics NAV
+title: Dynamics NAV
 author: SusanneWindfeldPedersen
 ms.custom: na
 ms.date: 09/16/2016
@@ -7,16 +7,16 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 113453b0c0b6e1ed61ac4ec66046fcbcead4960f
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 010c3862fcd791755958b17f63b4064ff33fcf58
 ms.contentlocale: es-es
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
-# <a name="welcome-to-dynamics-nav"></a>Este es Dynamics NAV
+# <a name="welcome-to-dynamics-nav"></a>Dynamics NAV
 
 Dynamics NAV es una solución de administración empresarial para pequeñas y medianas empresas que automatiza y optimiza los procesos empresariales y le ayuda a administrar su empresa. La empresa de demostración contiene datos de ejemplo, pero puede crear sus propios documentos de venta, por ejemplo, o configurar una cuenta bancaria.  
 
@@ -38,7 +38,7 @@ Cuando ha ejecutado un asistente de configuración, se marca como **Completado**
 
 ## <a name="see-also"></a>Consulte también
 [Instalación](setup.md)  
-[Finanzas](finance-setup.md)  
+[Finanzas](finance.md)  
 [Personalizar Dynamics NAV usando extensiones](ui-extensions.md)  
 [Trabajar con Dynamics NAV](ui-work-product.md)  
 [Usar Dynamics NAV como su bandeja de entrada de empresa en Outlook](across-outlook.md)  
