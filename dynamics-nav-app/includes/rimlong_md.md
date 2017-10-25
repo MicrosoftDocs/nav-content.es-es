@@ -1,1 +1,1 @@
-<span data-ttu-id="f8754-101">Servicios RapidStart para Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f8754-101">RapidStart Services for Microsoft Dynamics NAV</span></span>
+<span data-ttu-id="056fc-101">Servicios RapidStart para Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="056fc-101">RapidStart Services for Microsoft Dynamics NAV</span></span>

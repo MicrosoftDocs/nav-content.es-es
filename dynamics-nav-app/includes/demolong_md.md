@@ -1,1 +1,1 @@
-<span data-ttu-id="f3918-101">CRONUS España S.A.</span><span class="sxs-lookup"><span data-stu-id="f3918-101">CRONUS International Ltd.</span></span> <span data-ttu-id="f3918-102">base de datos de demostración</span><span class="sxs-lookup"><span data-stu-id="f3918-102">demonstration database</span></span>
+<span data-ttu-id="22660-101">Base de datos de demostración de CRONUS International Ltd.</span><span class="sxs-lookup"><span data-stu-id="22660-101">CRONUS International Ltd. demonstration database</span></span>

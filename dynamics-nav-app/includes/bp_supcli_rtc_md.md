@@ -1,1 +1,1 @@
-<span data-ttu-id="8cf63-101">Solo cliente de Windows de Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="8cf63-101">Microsoft Dynamics NAV Windows client only</span></span>
+<span data-ttu-id="5fc7a-101">Solo cliente Windows de Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="5fc7a-101">Microsoft Dynamics NAV Windows client only</span></span>
