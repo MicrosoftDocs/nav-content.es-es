@@ -12,23 +12,22 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 68b990d0291ec74dfd4219faadf4f69061fdd205
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 26f5d5c1fb3a1abc003cf16e0128aa7f1158de3b
 ms.contentlocale: es-es
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="how-to-create-report-340"></a>Creación del informe 340
 El Informe 340 incluye todas las facturas de compras y ventas que registra una empresa durante un periodo determinado. El informe también incluye los códigos de operación con impuestos y pagos en efectivo relacionados.  
-  
- Este informe se genera en un formato que ha aprobado la administración fiscal. Debe presentar este informe en una periodicidad mensual o trimestral, en función del tamaño de la empresa.  
-  
-### <a name="to-create-report-340"></a>Para crear el informe 340  
-  
-1.  Elija el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Modelo 340** y, a continuación, seleccione el vínculo relacionado.  
-  
+
+Este informe se genera en un formato que ha aprobado la administración fiscal. Debe presentar este informe en una periodicidad mensual o trimestral, en función del tamaño de la empresa.  
+
+## <a name="to-create-report-340"></a>Para crear el informe 340  
+
+1.  Elija el icono ![Buscar página o informe](../../media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Modelo 340** y, a continuación, seleccione el vínculo relacionado.  
 2.  En la ficha desplegable **Opciones** de la ventana **Modelo 340**, rellene los campos tal y como se describe en la tabla siguiente.  
-  
+
     |Campo|Description|  
     |---------------------------------|---------------------------------------|  
     |**Ejercicio**|Escriba el año fiscal para el que desea crear la declaración de la operación.|  
@@ -43,25 +42,23 @@ El Informe 340 incluye todas las facturas de compras y ventas que registra una e
     |**Tipo de medio modelo**|Seleccione el tipo de medio del modelo.|  
     |**Modelo de sustitución**|Seleccione si se trata de una sustitución de una declaración anteriormente registrada.|  
     |**Número de modelo anterior**|Escriba el número de modelo anterior si la opción **Modelo de sustitución** está activada.|  
-  
-3.  Seleccione los filtros apropiados y, a continuación, elija el botón **Aceptar**. Se creará el archivo de texto del **Informe 340** en la ruta especificada.  
-  
-### <a name="to-create-a-modelo-340-report-under-the-cac-regimen"></a>Para crear un informe de Modelo 340 en de régimen CAC  
-  
+
+3.  Seleccione los filtros apropiados y, a continuación, elija el botón **Aceptar**. Se creará el archivo de texto del Informe 340 en la ruta especificada.  
+
+## <a name="to-create-a-modelo-340-report-under-the-cac-regimen"></a>Para crear un informe de Modelo 340 en de régimen CAC  
+
 1.  Realice los pasos del procedimiento anterior.  
-  
 2.  Según sea necesario, ajuste y modifique la información del código de operación. Para que el informe pase la validación cuando lo envíe a la administración fiscal, las líneas que tengan un pago no realizado deben actualizarse e incluir un código de operación. Puede cambiar el código de operación de Z o 3 a Z o 1 – 8 solo para los pagos en efectivo.  
-  
 3.  Elija el botón **Aceptar**. El informe se exporta a la ubicación de archivo que especifique. El informe solo contiene las líneas de facturas, abonos, liquidados o no, y los pagos que tienen el IVA no realizado.  
-  
-     Las facturas se exportarán y contendrán el código de operación Z. Los datos de la colección están en blanco.  
-  
-     Los pagos contra una factura se exportarán y contendrán los datos de cobro.  
-  
- Si imprime el documento registrado, por ejemplo, una factura de venta registrada, éste incluirá la etiqueta siguiente: **Régimen especial del criterio de caja**.  
-  
+
+    Las facturas se exportarán y contendrán el código de operación Z. Los datos de la colección están en blanco.  
+
+    Los pagos contra una factura se exportarán y contendrán los datos de cobro.  
+
+Si imprime el documento registrado, por ejemplo, una factura de venta registrada, éste incluirá la etiqueta siguiente: **Régimen especial del criterio de caja**.  
+
 ## <a name="see-also"></a>Consulte también  
  [Informe 340](report-340.md)   
- Modelo 340   
  [Pagos en efectivo](payments-in-cash.md)   
  [Agencia Tributaria](http://www.aeat.es/wps/portal/Home?channel=1af861cd949a1010VgnVCM100000d7005a80____&ver=L&site=56d8237c0bc1ff00VgnVCM100000d7005a80____&idioma=es_ES&menu=0&img=0)
+

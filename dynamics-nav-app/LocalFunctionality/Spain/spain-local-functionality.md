@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ba3b4509837f5204e028223b4cd9e01a21ecb750
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: faead6072e0423359be1857239cd81861a4c3643
 ms.contentlocale: es-es
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="spain-local-functionality"></a>Funcionalidad local para España
@@ -41,4 +41,7 @@ En los temas siguientes se describe la funcionalidad local que es única para la
   [Informe 340](report-340.md)  
   [Informe 347](report-347.md)  
   [Informe 349](report-349.md)  
+
+## <a name="see-also"></a>Consulte también
+[Trabajar con [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md) 
 

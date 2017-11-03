@@ -1,6 +1,6 @@
 ---
 title: "Cálculo de fechas de vencimiento"
-description: "En España, hay un límite legal para el número de días que un pago se puede retrasar. Debe presentar un informe anual de compras y ventas de los pagos que se crearon antes o después de la fecha de vencimiento. Los requisitos legales dependen de si el cliente es una empresa privada o una gestión pública. Para obtener más información, consulte la declaración oficial [BOE-A-2010-10708](http://go.microsoft.com/fwlink/?LinkId=224630) en la página web del Boletín Oficial del Estado."
+description: "En España, hay un límite legal para el número de días que un pago se puede retrasar. Debe presentar un informe anual de compras y ventas de los pagos que se crearon antes o después de la fecha de vencimiento."
 documentationcenter: 
 author: SorenGP
 ms.prod: dynamics-nav-2017
@@ -12,19 +12,19 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 446cf26746f9439b5afae52751f96b662ff8524c
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 38220399bd2f6e4331a84dafc094f8b758740751
 ms.contentlocale: es-es
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="calculating-due-dates"></a>Cálculo de fechas de vencimiento
 En España, hay un límite legal para el número de días que un pago se puede retrasar. Debe presentar un informe anual de compras y ventas de los pagos que se crearon antes o después de la fecha de vencimiento. Los requisitos legales dependen de si el cliente es una empresa privada o una gestión pública. Para obtener más información, consulte la declaración oficial [BOE-A-2010-10708](http://go.microsoft.com/fwlink/?LinkId=224630) en la página web del Boletín Oficial del Estado.  
 
 ## <a name="payment-terms"></a>Condiciones de pago  
- Para ayudarle a cumplir los requisitos legales, puede configurar términos de pago para calcular las fechas de vencimiento correctamente. Esto especifica el número máximo de días naturales que un pago se puede retrasar después de la entrega. Por ejemplo, puede crear los términos de pago diferentes para las ventas al sector el público y las ventas a compañías privadas. La siguiente tabla muestra cómo puede configurar los términos de pago.  
+Para ayudarle a cumplir los requisitos legales, puede configurar términos de pago para calcular las fechas de vencimiento correctamente. Esto especifica el número máximo de días naturales que un pago se puede retrasar después de la entrega. Por ejemplo, puede crear los términos de pago diferentes para las ventas al sector el público y las ventas a compañías privadas. La siguiente tabla muestra cómo puede configurar los términos de pago.  
 
-|ADD INCLUDE<!--[!INCLUDE[bp_tablefield](../../includes/bp_tablefield_md.md)]-->|Sector público|Empresa privada|  
+|Campo|Sector público|Empresa privada|  
 |---------------------------------|-------------------|---------------------|  
 |**Código**|**1M(8D) PUB**|**1M(8D) PRI**|  
 |**Cálculo de fecha de vencimiento**|**1M**|**1M**|  
@@ -40,31 +40,23 @@ En España, hay un límite legal para el número de días que un pago se puede r
  Puede cambiar la fecha de vencimiento calculada manualmente, pero no puede establecer una fecha posterior al límite que ha especificado para el término de pago. Por ejemplo, la fecha de vencimiento puede calcularse para que sea muy tarde debido a conflictos con los períodos de falta de pago. En ese caso, puede decidir crear la fecha de vencimiento anterior al periodo de impagos.  
 
 ## <a name="overdue-payments"></a>Pagos vencidos  
- Debe incluir información acerca de pagos vencidos en los informes anuales para el gobierno. [!INCLUDE[navnow](../../includes/navnow_md.md)] ../../ incluye dos informes para ayudarle a identificar pagos vencidos de clientes y pagos retrasados.  
+ Debe incluir información acerca de pagos vencidos en los informes anuales para el gobierno. [!INCLUDE[navnow](../../includes/navnow_md.md)] incluye dos informes para ayudarle a identificar pagos vencidos de clientes y pagos retrasados.  
 
  Los informes **Cliente - Pagos vencidos** y **Proveedor - Pagos vencidos** incluyen una sección para cada cliente o proveedor que muestra los pagos con la siguiente información:  
 
--   Número de factura  
+- Número de factura  
+- Descripción factura  
+- N.º documento  
+- Fecha registro  
+- Fecha de vencimiento  
+- Días después de vencimiento  
+- Código divisa  
+- Importe  
+- Importe expresado en la divisa local (DL)  
 
--   Descripción factura  
+Cada sección tiene una sección de resumen que contiene la siguiente información.  
 
--   N.º documento  
-
--   Fecha registro  
-
--   Fecha de vencimiento  
-
--   Días después de vencimiento  
-
--   Código divisa  
-
--   Importe  
-
--   Importe expresado en la divisa local (DL)  
-
- Cada sección tiene una sección de resumen que contiene la siguiente información.  
-
-|Información|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Información|Description|  
 |-----------------|---------------------------------------|  
 |Plazo medio ponderado superado|Esta fórmula se calcula en función del número de pagos contabilizados para el período especificado, el número de días del retraso de los pagos y el importe pagado en (DL). Para obtener más información, consulte la declaración oficial [BOE-A-2010-10708](http://go.microsoft.com/fwlink/?LinkId=224630) en la página web del Boletín Oficial del Estado.|  
 |Pagos dentro límite legal|Los importes en DL y el porcentaje de pagos totales que se crearon antes de la fecha de vencimiento máxima permitida para cada transacción.|  
@@ -74,9 +66,7 @@ En España, hay un límite legal para el número de días que un pago se puede r
 
 ## <a name="see-also"></a>Consulte también  
  [Establecer límites para fechas de vencimiento](how-to-set-limits-for-due-dates.md)   
- [Configuración de términos de pago](../../how-to-set-up-payment-terms.md)   
- [Liquidar movimientos de compras](apply-purchase-transactions.md)   
- [Liquidar transacciones de ventas](apply-sales-transactions.md)   
- Cliente - Pagos vencidos   
- Proveedor - Pagos vencidos
+[Administrar pagos](../../payables-manage-payables.md)  
+[Administrar cobros](../../receivables-manage-receivables.md)  
+ [Definir las formas de pago](../../finance-payment-methods.md)
 

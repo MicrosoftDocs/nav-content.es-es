@@ -1,6 +1,6 @@
 ---
 title: "Configuración de códigos de operación"
-description: "Puede añadir tantos códigos de operación como desee a la tabla. Sin embargo, los códigos C, D e I ya existe en Microsoft Dynamics NAV. Por ejemplo, los abonos siempre tienen el código de operación D. No puede configurar estos valores en la tabla porque son códigos creados por el sistema. Si intenta agregarlos, Microsoft Dynamics NAV devolverá un error."
+description: "Puede añadir tantos códigos de operación como desee a la tabla. Sin embargo, los códigos C, D e I ya existen en [!INCLUDE[navnow](../../includes/navnow_md.md)]."
 documentationcenter: 
 author: SorenGP
 ms.prod: dynamics-nav-2017
@@ -12,42 +12,40 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ee8d48e7ab1935afb4bbe65a859f4fb9a3672473
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 05149e8a8dd17043d9e1428e557b567d181f7f43
 ms.contentlocale: es-es
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="how-to-set-up-operation-codes"></a>Configuración de códigos de operación
-Puede añadir tantos códigos de operación como desee a la tabla. Sin embargo, los códigos C, D e I ya existe en Microsoft Dynamics NAV. Por ejemplo, los abonos siempre tienen el código de operación D. No puede configurar estos valores en la tabla porque son códigos creados por el sistema. Si intenta agregarlos, Microsoft Dynamics NAV devolverá un error.  
-  
-### <a name="to-set-up-operation-codes"></a>Para configurar códigos de operación  
-  
-1.  Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Códigos de operación** y, a continuación, seleccione el vínculo relacionado.  
-  
+Puede añadir tantos códigos de operación como desee a la tabla. Sin embargo, los códigos C, D e I ya existe en [!INCLUDE[navnow](../../includes/navnow_md.md)]. Por ejemplo, los abonos siempre tienen el código de operación D. No puede configurar estos valores en la tabla porque son códigos creados por el sistema. Si intenta agregarlos, [!INCLUDE[navnow](../../includes/navnow_md.md)] devolverá un error.  
+
+## <a name="to-set-up-operation-codes"></a>Para configurar códigos de operación  
+
+1.  Seleccione el icono ![Buscar página o informe](../../media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Códigos de operación** y, a continuación, seleccione el vínculo relacionado.  
 2.  En la ventana **Códigos de operación**, rellene los campos tal como se describe en la tabla siguiente  
-  
+
     |Campo|Description|  
     |---------------------------------|---------------------------------------|  
     |**Código**|Introduzca un código de operación. Puede introducir un letra o número.<br /><br /> Los códigos válidos son números del 1 al 8 y letras de la A a la Z.<br /><br /> Para enviar un informe bajo el régimen de CAC, debe asegurarse de que el código Z, que se requiere para este tipo de transacciones, se encuentre en la lista de códigos de operación.|  
     |**Descripción**|Escriba una descripción para el código de operación. Puede introducir un máximo de 30 caracteres alfanuméricos.|  
-  
-### <a name="to-link-operation-codes-to-general-product-posting-groups"></a>Para vincular códigos de operación a grupos de publicación de productos en general  
-  
-1.  Seleccione el icono ![Buscar página o informe](media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Grupos contables** y, a continuación, seleccione el vínculo relacionado.  
-  
-2.  Elija **Grupos contables de producto general**.  
-  
-3.  En la ventana Grupos de publicación de productos generales, vincule cada código de operación a un grupo de publicación de productos general.  
-  
+
+## <a name="to-link-operation-codes-to-general-product-posting-groups"></a>Para vincular códigos de operación a grupos de publicación de productos en general  
+
+1.  Seleccione el icono ![Buscar página o informe](../../media/ui-search/search_small.png "icono Buscar página o informe"), escriba **Grupos contables** y, a continuación, seleccione el vínculo relacionado.  
+2.  Elija la acción **Grupos contables de producto general**.  
+3.  En la ventana **Grupos de publicación de productos generales**, vincule cada código de operación a un grupo de publicación de productos general.  
+
     |Campo|Description|  
     |---------------------------------|---------------------------------------|  
     |Código|Introduzca un código para crear un nuevo grupo contable de producto general.|  
     |Description|Introduzca una descripción del grupo contable de producto general|  
     |Grupo reg. IVA prod. genér.|Seleccione un porcentaje de IVA para vincularlo al grupo de publicación de producto general.|  
     |Código operación|Seleccione una operación apropiada para vincularla a un grupo contable de producto general. Puede asignar el mismo código de operación a distintos grupos contables. **Nota:** Es importante vincular el código de operación al grupo de registro de IVA de producto correcto. El informe del modelo 340 usa la configuración para crear declaraciones comerciales.|  
-  
- Cuando agrega un código de operación al grupo de publicación de producto general, esa asociación se aplica a su vez a los artículos que tienen ese grupo.  
-  
+
+Cuando agrega un código de operación al grupo de publicación de producto general, esa asociación se aplica a su vez a los artículos que tienen ese grupo.  
+
 ## <a name="see-also"></a>Consulte también  
  [Creación del informe 340](how-to-create-report-340.md)
+
