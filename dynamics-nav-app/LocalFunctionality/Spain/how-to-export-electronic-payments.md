@@ -112,7 +112,7 @@ En [!INCLUDE[navnow](../../includes/navnow_md.md)], puede exportar movimientos d
 >  Solo puede registrar la orden de pago una vez que haya exportado correctamente los pagos electrónicos.  
 
 ## <a name="see-also"></a>Consulte también  
- [Pagos electrónicos – AEB N34.1](electronic-payments-%E2%80%93-aeb-n34.1.md)   
+ [Pagos electrónicos – AEB N34.1](electronic-payments-aeb-n34.1.md)   
  Exportar pagos electrónicos   
  [Configurar cuentas bancarias para realizar pagos electrónicos](how-to-set-up-bank-accounts-for-electronic-payments.md)   
  [Realizar pagos con Servicio de conversión de datos del banco o Transferencia de crédito SEPA](../../finance-make-payments-with-bank-data-conversion-service-or-sepa-credit-transfer.md)
