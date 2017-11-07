@@ -50,5 +50,5 @@ En [!INCLUDE[navnow](../../includes/navnow_md.md)], puede configurar cuentas ban
 3.  En la ficha desplegable **Transferencia**, asegúrese de que los campos **CCC Cód. banco**, **CCC Cód. oficina**, **CCC Dígito control** y **CCC Nº cuenta** se rellenan correctamente.  
 
 ## <a name="see-also"></a>Consulte también  
- [Pagos electrónicos – AEB N34.1](electronic-payments-%E2%80%93-aeb-n34.1.md)
+ [Pagos electrónicos – AEB N34.1](electronic-payments-aeb-n34.1.md)
 
