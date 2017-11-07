@@ -24,7 +24,7 @@ En los temas siguientes se describe la funcionalidad local que es única para la
 ## <a name="in-this-section"></a>En esta sección  
   [Cálculo de fechas de vencimiento](calculating-due-dates.md)  
   [Módulo Cartera](cartera-module.md)  
-  [Pagos electrónicos – AEB N34.1](electronic-payments-%E2%80%93-aeb-n34.1.md)  
+  [Pagos electrónicos – AEB N34.1](electronic-payments-aeb-n34.1.md)  
   [Números de transacción](transaction-numbers.md)  
   [Facturas correctivas](corrective-invoices.md)  
   [Introducción de códigos CCC](how-to-enter-ccc-codes.md)  
