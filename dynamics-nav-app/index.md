@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard
-ms.date: 08/23/2017
+ms.date: 02/11/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3162ca9bc53f862c1602f96ddf5eb7e9c7125005
+ms.sourcegitcommit: 3554bd08bf30f5faca43b4308a91f3c66e1baded
+ms.openlocfilehash: 30a9b0a3a283660359702788423811f756c94955
 ms.contentlocale: es-es
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 11/02/2017
 
 ---
 # <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>[!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -39,7 +39,7 @@ Las páginas principales utilizan un diseño basado en roles para ofrecerle acce
 
 Cada la página principal proporciona un botón **Configuración y extensiones**. Aquí tiene acceso a una lista de configuración asistencia que puede ayudarle a empezar mediante la configuración de las áreas seleccionadas rápidamente. Si un área no está cubierta por una configuración asistida, elija la acción **Configuración manual** para obtener acceso a las ventanas de configuración donde puede rellenar los campos de configuración de todas las áreas manualmente. Para obtener más información, consulte también [Configurar [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md).  
 
-| Configuración asistida | Description |
+| Configuración asistida | Descripción |
 | --- | --- |
 | Migrar datos empresariales |Permite importar datos empresariales existentes, como proveedores, clientes y productos desde Excel o Quickbooks. |
 | Configurar mi empresa |Crea una nueva empresa de prueba para que pueda introducir datos y probar [!INCLUDE[d365fin](includes/d365fin_md.md)]. Si empezó con el paseo de introducción, es probable que ya lo haya **Completado**. |
