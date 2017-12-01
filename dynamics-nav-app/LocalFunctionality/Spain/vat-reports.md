@@ -3,7 +3,7 @@ title: Informes IVA
 description: "El IVA se aplica a las transacciones que involucran bienes y servicios en España o bienes importados a España. La siguiente información proporciona más detalles sobre la funcionalidad de IVA."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: aaabe44bbb3993d49e7a1d9d5a6de4dbfeb63045
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5b94d5812c6a33e6b399df4ee23271dc23e3c43b
 ms.contentlocale: es-es
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="vat-reports"></a><span data-ttu-id="cb1c3-104">Informes IVA</span><span class="sxs-lookup"><span data-stu-id="cb1c3-104">VAT Reports</span></span>

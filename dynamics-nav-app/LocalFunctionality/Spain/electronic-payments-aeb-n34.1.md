@@ -3,7 +3,7 @@ title: "Pagos electrónicos – AEB N34.1"
 description: "Con la funcionalidad de pagos electrónicos, puede pagar a los proveedores mediante pagos electrónicos en lugar de tener que emitir cheques en papel. Los pagos electrónicos se exportan a un formato de archivo AEB N34.1 estándar, utilizado por casi todos los bancos en España. Posteriormente, este archivo se transmite al banco."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 992b75e186702ae28964c9256c8b6ffd160387b5
-ms.openlocfilehash: 0841751fc9bf12757a5c24e9f4728ff3b0a8984c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 525bc8380e37ce5337dd2564d82ecea8dbe89b94
 ms.contentlocale: es-es
-ms.lasthandoff: 10/24/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="electronic-payments--aeb-n341"></a><span data-ttu-id="9e614-105">Pagos electrónicos – AEB N34.1</span><span class="sxs-lookup"><span data-stu-id="9e614-105">Electronic Payments – AEB N34.1</span></span>

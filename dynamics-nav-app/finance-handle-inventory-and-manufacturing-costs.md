@@ -3,7 +3,7 @@ title: "Administrar existencias y costes de fabricación"
 description: "Aunque la mayoría de las funciones de contabilidad de costes se llevan a cabo mediante procesos subyacentes que no requieren la interacción del usuario, tales como la liquidación de movimientos y el ajuste automático de costes, existen varios campos, ventanas e informes destinados a los usuarios que administran directa o indirectamente el coste de los productos o las operaciones."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/09/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e7173c243a1603a54cca2362b9a4faea3fc4e00e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: bd6fd393a08f0258d3a07270bf91e2ea2c836a07
 ms.contentlocale: es-es
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="handling-inventory-and-manufacturing-costs"></a><span data-ttu-id="5fbd8-103">Administración de existencias y costes de fabricación</span><span class="sxs-lookup"><span data-stu-id="5fbd8-103">Handling Inventory and Manufacturing Costs</span></span>

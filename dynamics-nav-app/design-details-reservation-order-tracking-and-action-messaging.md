@@ -3,7 +3,7 @@ title: "Detalles de diseño: Directivas de reaprovisionamiento"
 description: "Este tema proporciona un resumen de las cuatro políticas de reaprovisionamiento disponibles para la reposición."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, replenishment, reordering
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e8ff2b39fbdc472d071cc40156327ffe96f02b10
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 04cf09274d301501f38d1cb56a762a7b57ef6cde
 ms.contentlocale: es-es
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-reordering-policies"></a><span data-ttu-id="6e444-103">Detalles de diseño: Directivas de reaprovisionamiento</span><span class="sxs-lookup"><span data-stu-id="6e444-103">Design Details: Reordering Policies</span></span>

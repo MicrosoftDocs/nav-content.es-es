@@ -3,7 +3,7 @@ title: "Cálculo de fechas de vencimiento"
 description: "En España, hay un límite legal para el número de días que un pago se puede retrasar. Debe presentar un informe anual de compras y ventas de los pagos que se crearon antes o después de la fecha de vencimiento."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 38220399bd2f6e4331a84dafc094f8b758740751
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a75bd27a9c3981f518e78c9b2c645e685b6788bb
 ms.contentlocale: es-es
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="calculating-due-dates"></a><span data-ttu-id="0206e-104">Cálculo de fechas de vencimiento</span><span class="sxs-lookup"><span data-stu-id="0206e-104">Calculating Due Dates</span></span>

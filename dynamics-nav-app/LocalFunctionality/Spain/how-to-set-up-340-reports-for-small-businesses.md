@@ -3,7 +3,7 @@ title: "Configurar informes 340 para las empresas pequeñas"
 description: "Utilice el siguiente procedimiento para configurar su negocio para que informe en efectivo, es decir, Criterios de contabilidad de efectivo (CAC). Si aún no lo ha hecho, puede configurar grupos de contabilización para la contabilización del IVA en efectivo para compras y ventas."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: c95aca3737107438711340f939d08e9ff90d621b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2c5184440dd4d38196299d13f070bbb1aff9d5ee
 ms.contentlocale: es-es
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-340-reports-for-small-businesses"></a><span data-ttu-id="d3c76-104">Configurar informes 340 para las empresas pequeñas</span><span class="sxs-lookup"><span data-stu-id="d3c76-104">How to: Set Up 340 Reports for Small Businesses</span></span>

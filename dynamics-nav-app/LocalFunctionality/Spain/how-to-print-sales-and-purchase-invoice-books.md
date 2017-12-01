@@ -3,7 +3,7 @@ title: "Impresión de libros de facturas emitidas y recibidas"
 description: "Los informes **Libro facturas emitidas** y **Libro facturas recibidas** permiten comprobar todos los documentos de compras y ventas creados en un periodo específico."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: e3f966ef4ddbfaec7a74c37bd2e0b78abc155f09
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 26673170bc6991a1e10ba6ca30f6a04acafd4393
 ms.contentlocale: es-es
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-sales-and-purchase-invoice-books"></a><span data-ttu-id="e8be5-103">Impresión de libros de facturas emitidas y recibidas</span><span class="sxs-lookup"><span data-stu-id="e8be5-103">How to: Print Sales and Purchase Invoice Books</span></span>

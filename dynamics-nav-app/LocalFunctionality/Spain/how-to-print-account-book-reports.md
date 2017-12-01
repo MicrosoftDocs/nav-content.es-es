@@ -3,7 +3,7 @@ title: "Impresión de informes de libro diario"
 description: "Los informes de libro diario muestran todos los movimientos de contabilidad creados en un periodo específico."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 52b1db3fcbe95156c49f9122a4fc90c9e885c112
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 03df1c11ca6cb1058fb62f07f846017275d86e34
 ms.contentlocale: es-es
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-account-book-reports"></a><span data-ttu-id="9aadd-103">Impresión de informes de libro diario</span><span class="sxs-lookup"><span data-stu-id="9aadd-103">How to: Print Account Book Reports</span></span>

@@ -3,7 +3,7 @@ title: "Configuración de días de pago y de periodos no-pago"
 description: "Los días de pago y periodos no-pago se utilizan para calcular fechas de vencimiento. El cálculo de fecha de vencimiento se utiliza para los documentos de compras y ventas."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 23658c24a865efc6f0a764b9400a1f063098ea55
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7014f568f6c3346e1872df64e41f4ebee53a85fb
 ms.contentlocale: es-es
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-payment-days-and-non-payment-periods"></a><span data-ttu-id="6e071-104">Configuración de días de pago y de periodos no-pago</span><span class="sxs-lookup"><span data-stu-id="6e071-104">How to: Set Up Payment Days and Non-Payment Periods</span></span>
