@@ -3,7 +3,7 @@ title: "Detalles de diseño: Revalorización"
 description: "Puede revalorizar el inventario según la base de valoración que refleja de forma más precisa el valor de inventario. También puede especificar una fecha retroactiva para una revalorización, de modo que el coste total de las mercancías vendidas se actualice correctamente para los productos que ya se han vendido. Los productos que usan la valoración de existencias Estándar que no se han facturado por completo también se pueden volver a valorar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

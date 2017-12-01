@@ -3,7 +3,7 @@ title: Facturas correctivas
 description: La funcionalidad de factura correctiva permite enviar una factura correctiva cuando haya un error o conflicto que afecte al importe del IVA o a los datos fiscales. Esta factura incluye todos los datos requeridos legalmente y hace referencia a la factura o facturas originales.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

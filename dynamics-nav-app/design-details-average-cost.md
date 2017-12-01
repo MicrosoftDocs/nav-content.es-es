@@ -2,7 +2,7 @@
 title: "Detalles de diseño: Coste medio"
 description: "El coste medio de un producto se calcula con una media ponderada periódica, en función del periodo de coste medio que esté configurado en Dynamics NAV."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Módulo Cartera"
 description: "El módulo Cartera permite utilizar documentos específicos, como letras de cambio y pagarés, para administrar pagos de clientes y proveedores."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

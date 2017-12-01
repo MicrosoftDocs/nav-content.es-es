@@ -3,7 +3,7 @@ title: "Definición de la relación entre los tipos de coste y las cuentas de co
 description: "Obtenga información sobre cómo definir la relación entre el tipo de coste y la cuenta de contabilidad."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

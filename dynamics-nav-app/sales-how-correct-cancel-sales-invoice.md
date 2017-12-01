@@ -3,7 +3,7 @@ title: Corregir o cancelar una factura de venta registrada
 description: "Describe cómo, corregir deshacer o cancela una factura de venta registrada y aplicar un abono de venta."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

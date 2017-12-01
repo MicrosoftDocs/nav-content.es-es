@@ -3,7 +3,7 @@ title: Contabilidad para costes
 description: "La contabilidad de costes se utiliza para ayudarle a conocer los costes de la dirección de una empresa. Para iniciarse en la contabilidad de costes, vea los temas siguientes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

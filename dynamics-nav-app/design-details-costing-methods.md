@@ -3,7 +3,7 @@ title: "Detalles de diseño: Métodos de coste"
 description: "La valoración de existencias determina si en el cálculo de costes se capitaliza y utiliza un valor real o uno presupuestado. Junto con la fecha de registro y la secuencia, el método de coste también influye en cómo se registra el flujo de costes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

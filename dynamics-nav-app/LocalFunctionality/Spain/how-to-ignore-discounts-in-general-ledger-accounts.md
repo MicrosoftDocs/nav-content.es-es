@@ -3,7 +3,7 @@ title: "Omisión de descuentos en cuentas de contabilidad"
 description: Algunas cuentas de contabilidad no aceptan descuentos de pago o de factura. Para estas cuentas, se pueden omitir los descuentos.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

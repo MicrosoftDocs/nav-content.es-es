@@ -3,7 +3,7 @@ title: "Módulo Docs. cartera a cobrar"
 description: "El módulo Docs. cartera a cobrar permite administrar las facturas generadas a partir de facturas de ventas."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Detalles de diseño: Componentes de coste"
 description: Los componentes del coste son distintos tipos de costes que conforman el valor de una entrada o una salida de existencias.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

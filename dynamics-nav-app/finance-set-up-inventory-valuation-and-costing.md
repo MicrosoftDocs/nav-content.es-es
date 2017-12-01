@@ -3,7 +3,7 @@ title: "Configuración de valoración de existencias"
 description: "En la tabla siguiente se indican una serie de tareas con vínculos a los temas que las describen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Informe 349
 description: "Debe presentar un informe periódico de comercio con otros países o regiones de la UE a las autoridades fiscales. En España, este informe 349 es parte del sistema intracomunitario de intercambio de información sobre el IVA (VIES)."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

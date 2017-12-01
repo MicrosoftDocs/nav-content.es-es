@@ -3,7 +3,7 @@ title: Informe 340
 description: "El Informe 340 contiene información sobre facturas e impuestos emitidos o recibidos por su empresa en un período determinado. El informe se genera en un formato que ha aprobado la administración fiscal."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

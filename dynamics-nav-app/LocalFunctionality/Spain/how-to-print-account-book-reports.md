@@ -3,7 +3,7 @@ title: "Impresión de informes de libro diario"
 description: "Los informes de libro diario muestran todos los movimientos de contabilidad creados en un periodo específico."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Gestión de costes de inventario"
 description: "La gestión de costes, también conocida como \"valoración de existencias\", se refiere al registro y la creación de informes sobre los costes operativos de la empresa. Incluye la creación de informes de los costes de stock y fabricación, es decir, el valor de los productos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Detalles de diseño: Conciliación con contabilidad"
 description: "Este tema describe la conciliación con la contabilidad cuando registre transacciones del inventario, como pueden ser envíos de ventas, salida de producción, o ajustes negativos."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

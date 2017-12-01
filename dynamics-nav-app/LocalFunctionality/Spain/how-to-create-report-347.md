@@ -3,7 +3,7 @@ title: "Creación del informe 347"
 description: "Todas las empresas deben presentar una declaración anual, el **Informe 347**, a la administración fiscal que proporcione las transacciones de ventas y compras del periodo fiscal anterior."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

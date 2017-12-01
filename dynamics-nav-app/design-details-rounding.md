@@ -3,7 +3,7 @@ title: "Detalles de diseño: Redondeo"
 description: Los redondeos residuales se pueden producir cuando se valora el coste de una salida de existencias que se mide en una cantidad distinta a la de la entrada de existencias correspondiente. Cuando se ejecuta el proceso **Valorar stock - movs. producto**, se calculan los redondeos residuales para todas las valoraciones de existencias.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

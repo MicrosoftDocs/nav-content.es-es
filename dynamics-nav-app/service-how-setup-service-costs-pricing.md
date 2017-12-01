@@ -3,7 +3,7 @@ title: Configurar precio y costes de servicios
 description: "Más información sobre cómo configurar precios y costes adicionales de servicios."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

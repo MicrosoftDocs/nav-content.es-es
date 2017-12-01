@@ -3,7 +3,7 @@ title: "Configuración de códigos de operación"
 description: "Puede añadir tantos códigos de operación como desee a la tabla. Sin embargo, los códigos C, D e I ya existen en [!INCLUDE[navnow](../../includes/navnow_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: 'Procedimiento: configurar objetos de coste'
 description: "Aprender cómo configurar los objetos de coste, que son parecidos a las dimensiones de contabilidad."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

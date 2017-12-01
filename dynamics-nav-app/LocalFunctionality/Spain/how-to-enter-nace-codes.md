@@ -3,7 +3,7 @@ title: "Introducción de códigos CNAE"
 description: "Los códigos de Nomenclature génerale des Activités économiques dans les Communautés Européennes (CNAE) representan la clasificación estadística de actividades económicas dentro de la Unión Europea (UE)."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

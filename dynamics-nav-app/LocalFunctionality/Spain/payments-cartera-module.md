@@ -3,7 +3,7 @@ title: "Módulo Docs. cartera a pagar"
 description: "El módulo Docs. cartera a pagar permite administrar documentos a pagar generados a partir de facturas de compra o del **Diario Cartera**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Acerca del cálculo de coste estándar"
 description: "Un sistema de costes estándar determina el coste unitario del inventario en función de ciertos costes históricos o esperados razonables. Los estudios sobre costes anteriores y sobre costes futuros previstos pueden ofrecer una base para calcular costes estándar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

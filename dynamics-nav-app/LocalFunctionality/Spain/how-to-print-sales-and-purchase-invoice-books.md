@@ -3,7 +3,7 @@ title: "Impresión de libros de facturas emitidas y recibidas"
 description: "Los informes **Libro facturas emitidas** y **Libro facturas recibidas** permiten comprobar todos los documentos de compras y ventas creados en un periodo específico."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

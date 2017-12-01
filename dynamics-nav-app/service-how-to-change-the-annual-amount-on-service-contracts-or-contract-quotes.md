@@ -2,7 +2,7 @@
 title: Cambiar el importe anual de los contratos de servicio o las ofertas de contrato
 description: "puede cambiar el importe que se facturará anualmente en el contrato de servicio o las ofertas de contrato de servicio."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

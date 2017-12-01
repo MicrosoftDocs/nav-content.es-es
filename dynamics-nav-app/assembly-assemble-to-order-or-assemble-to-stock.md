@@ -3,7 +3,7 @@ title: "Descripción de ensamblar para pedido y ensamblar para stock"
 description: "Los elementos de ensamblado se pueden suministrar ensamblándolos cuando se ordenan o ensamblándolos para que se mantengan en el inventario hasta que sean necesarios en una orden de venta."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,13 +18,13 @@ ms.contentlocale: es-es
 ms.lasthandoff: 10/16/2017
 
 ---
-# Descripción de ensamblar para pedido y ensamblar para stock
+# <a name="understanding-assemble-to-order-and-assemble-to-stock"></a>Descripción de ensamblar para pedido y ensamblar para stock
 Los artículos de montaje se pueden suministrar en los dos procesos siguientes:  
 
 -   Ensamblar para pedido  
 -   Ensamblar para stock.  
 
-## Ensamblar para pedido  
+## <a name="assemble-to-order"></a>Ensamblar para pedido  
 Utilice normalmente *ensamblar para pedido* para los artículos que no desea llevar porque espera personalizarlos según lo solicitado por el cliente o porque desee minimizar el coste que incluye del inventario. La funcionalidad incluye:  
 
 -   Capacidad de personalizar los artículos de montaje al realizar un pedido de venta.  
@@ -44,7 +44,7 @@ Cuando se introduce un artículo de ensamblar para pedido en una línea de venta
 
  Para activar este proceso, el campo de **Directiva de ensamblado** en la ficha del artículo debe ser **Ensamblar para pedido**.  
 
-## Ensamblar para stock.  
+## <a name="assemble-to-stock"></a>Ensamblar para stock.  
  Se utiliza normalmente *Ensamblar para stock* para los artículos que se desea ensamblar antes de la venta, como para prepararse para una campaña de equipo, y mantenerlo en stock hasta que se soliciten. Estos artículos suelen ser estándar, como equipos embalados que no ofrecen personalización según las solicitudes de cliente.  
 
  En el proceso del ensamblar para stock, el artículo se ensamble sin demanda de venta inmediata y se mantiene en existencias en el almacén como producto de inventario para la venta o el consumo posterior como subelemento. Para obtener más información, consulte [Procedimiento: ensamble productos](assembly-how-to-assemble-items.md). De ese momento, el artículo se prepara y se procesa como único artículo y se considera un producto terminado.  
@@ -56,7 +56,7 @@ Cuando se introduce un artículo de ensamblar para pedido en una línea de venta
 
  Para activar este proceso, el campo **Directiva de ensamblado** en la ficha del artículo debe ser **Ensamblar para stock**.  
 
-## Escenarios de combinación  
+## <a name="combination-scenarios"></a>Escenarios de combinación  
  Un principio general de la administración de ensamblados es que cuando están agrupadas en una línea del pedido de venta, las cantidades de ensamblar para pedido se deben enviar antes de las del inventario.  
 
  Si un pedido de ensamblado está vinculado a una línea del pedido de venta, el valor del campo **Cdad. en ensamblar para pedido** en la línea del pedido de venta se copia al campo **Cantidad a ensamblar** mediante el campo **Cantidad** de la cabecera del pedido de ensamblado. Para obtener más información, consulte [Procedimiento: Venta de artículos ensamblados para pedido](assembly-how-to-sell-items-assembled-to-order.md).  
@@ -84,7 +84,7 @@ Cuando se introduce un artículo de ensamblar para pedido en una línea de venta
 -   La cantidad mínima que puede introducir es 1. Esto se debe a que debe ensamblar al menos una unidad para poder vender las cuatro unidades, si se asume que las tres restantes están disponibles en el inventario.  
 -   La cantidad máxima que puede introducir es 4. Así se garantiza que no ensamble más de este artículo de ensamblar para pedido de lo que se necesita en la venta.  
 
-## Consulte también  
+## <a name="see-also"></a>Consulte también  
 [Gestión de ensamblaje](assembly-assemble-items.md)  
 [Trabajar con listas de materiales](inventory-how-work-BOMs.md)  
 [Grupos contables inventario](inventory-manage-inventory.md)  

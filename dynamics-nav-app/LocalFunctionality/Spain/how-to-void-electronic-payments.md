@@ -3,7 +3,7 @@ title: "Anular pagos electrónicos"
 description: "En [!INCLUDE[navnow](../../includes/navnow_md.md)], puede anular el archivo de pago exportado. Al anular el archivo, se eliminará todo el diario de pagos desde el que se creó el archivo."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

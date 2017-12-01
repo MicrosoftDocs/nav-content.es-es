@@ -3,7 +3,7 @@ title: "Impresión de informes Intrastat"
 description: "Todas las empresas de la Unión Europea (UE) deben enviar un informe estadístico Intrastat al Instituto Nacional de Estadística (INE), en el que se detallen las relaciones comerciales con otros países y regiones de la UE."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Realizar un picking de los artículos para el envío de almacén"
 description: "Cuando el almacén está configurado para requerir los procesos de picking y envío, utilice documentos de picking de almacén para crear y procesar la información de picking anterior al registro del envío de almacén."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

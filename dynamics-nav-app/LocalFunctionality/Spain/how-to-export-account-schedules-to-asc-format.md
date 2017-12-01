@@ -3,7 +3,7 @@ title: "Exportación de esquemas de cuentas a formato ASC"
 description: "Los datos del esquema de cuentas se pueden exportar a un formato de archivo digital que ha aprobado la administración fiscal local para algunos informes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

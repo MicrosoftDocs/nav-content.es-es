@@ -3,7 +3,7 @@ title: "Configuración del análisis de flujo de efectivo"
 description: "Configure los planes en el área de trabajo Cuentas como ayuda para analizar el flujo de dinero de su empresa, incluyendo gastos e ingresos, liquidez y recibos de efectivo menos los pagos en efectivo."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

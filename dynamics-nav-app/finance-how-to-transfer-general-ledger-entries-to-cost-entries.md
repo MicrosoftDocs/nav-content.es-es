@@ -3,7 +3,7 @@ title: 'Procedimiento: transferencia de movimientos de contabilidad a los movimi
 description: Puede transferir movimientos de contabilidad a movimientos de coste.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
